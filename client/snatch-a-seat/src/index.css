@@ -1,0 +1,6 @@
+html, body {
+    /* background-image: linear-gradient(to right top, #07244a, #082549, #092647, #0c2746, #0e2844, #0e2844, #0e2844, #0e2844, #0c2746, #092647, #082549, #07244a); */
+    background-image: linear-gradient(to right bottom, #051223, #071425, #081628, #09182a, #0a1a2d, #0a1b30, #091c32, #091d35, #071e39, #051f3c, #042040, #022144);
+    height: 100%;
+    margin: 0;
+}
